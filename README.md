@@ -17,7 +17,7 @@
     </a>
 </div>
 
-# Project READEME <!-- Project title -->
+# Project-Readme Template 📚<!-- Project title -->
 
 <!-- 
 * information about the project 
@@ -26,16 +26,21 @@
 -->
 
 ## About
-A fully customizable and presentable README.md templete file to kick start your projects. this is not the templete! we will get there in a second :)
- 
+A fully customizable and presentable README.md template file to kick start your projects. this is not the template! we will get there in a second :)
+
 ## How to use it 
-- Access the Blank templete here <!-- add relative link to the blacnk tempelte dir -->
-- clone this repoistory into your local machine <!-- add code here -->
-- You can copy the markdon directly here <!-- add relative link to the markdon code block in markdown dir -->
-- Support me by staring this repository! <!-- add a realtive link  -->
+- Access the Blank template here <!-- add relative link to the blank template dir -->
+- clone this repository into your local machine <!-- add code here -->
+- You can copy the markdown directly here <!-- add relative link to the markdown code block in markdown dir -->
+- Support me by staring this repository! <!-- add a relative link  -->
+## Demo
+## Contents <!-- add table of content here -->
+## Roadmap
 
-## Project content <!-- add table of content here -->
-
-## Achkowledgment <!-- add acknowledgments here -->
-
+## Documentation
+## Author
+ 
+## Acknowledgments <!-- add acknowledgments here -->
 ## Feedback <!-- add contact here -->
+
+## license

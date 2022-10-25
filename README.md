@@ -1,5 +1,14 @@
+<!--
+* Thank you for reviewing my README Template! 
+* 
+* Read comments for an easy step by step guide. Enjoy!
+-->
+# Project READEME <!-- Project title -->
 ## About
-This is a presentable and easy to use README templete for projects, this is not the templete! we will get there in a second :)
+<!-- 
+* information about the project keep it short and sweet
+ -->
+This is a presentable and easy to use README templete to kickoff your projects, this is not the templete! we will get there in a second :)
 
 ## How to use it 
 - Access the Blank templete here <!-- add relative link to the blacnk tempelte dir -->
@@ -12,3 +21,6 @@ This is a presentable and easy to use README templete for projects, this is not 
 ## Achkowledgment <!-- add acknowledgments here -->
 
 ## Contact <!-- add contact here -->
+
+
+https://user-images.githubusercontent.com/59213365/197873975-7f494157-d80b-41d7-9022-baa64ff8ed18.mp4

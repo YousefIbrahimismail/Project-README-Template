@@ -21,6 +21,3 @@ This is a presentable and easy to use README templete to kickoff your projects, 
 ## Achkowledgment <!-- add acknowledgments here -->
 
 ## Contact <!-- add contact here -->
-
-
-https://user-images.githubusercontent.com/59213365/197873975-7f494157-d80b-41d7-9022-baa64ff8ed18.mp4

@@ -1,8 +1,21 @@
 <!--
-* Thank you for reviewing my README Template! 
+* Thanks for reviewing my Project-README-Template! 
 * 
-* Read comments for an easy step by step guide. Enjoy!
+* Read the comments for an easy step by step guide. Enjoy!
 -->
+
+<!--
+* Logo Section 
+* Insert an image URL in the <img> "src" attribute bellow. (line )
+* Insert your github profile URL in the <a> ""href" attribute bellow (line )
+-->
+
+<div align="center">
+    <a href="https://github.com/YousefIbrahimismail" target="_blank">
+        <img src="" alt="Logo" width="80" height="80">
+    </a>
+</div>
+
 # Project READEME <!-- Project title -->
 ## About
 <!-- 

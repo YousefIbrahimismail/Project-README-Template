@@ -58,7 +58,7 @@ This simple project offers you a fully customizable and presentable README.md te
 * 
 * It's recommended to use GIFs as they are more dynamic
 -->
-## Contents <!-- Optional -->
+## Contents <a id="contents_header"></a> <!-- Optional -->
 <!-- 
 * This section is optional, yet having a contents table 
 * helps keeping your README readable and more professional.
@@ -73,12 +73,14 @@ This simple project offers you a fully customizable and presentable README.md te
             <td><a href="#getStarted_header">Getting started</td>
             <td><a href="#demo_header">Demo</a></td>
             <td><a href="#roadmap_header">Project Roadmap</a></td>
+            <td><a href="#contents_header">Contents</a></td>
         </tr>
         <tr>
             <td><a href="#docs_header">Documentation</a></td>
             <td><a href="#contributors_Header">Contributors</a></td>
-            <td><a href="#"Acknowledgments>Acknowledgments</a></td>
-            <td><a href="#"></a></td>
+            <td><a href="#acknowledgments_header">Acknowledgments</a></td>
+            <td><a href="#feedback_header"">Feedback</a></td>
+            <td><a href="#license_header"">License</a></td>
         </tr>
 </table>
 </dev>
@@ -126,10 +128,10 @@ This simple project offers you a fully customizable and presentable README.md te
 * Also it's common to add some PR guidance.
 -->
 
-> You can make this project better, please  feel free to open a [PR](https://github.com/YousefIbrahimismail/Project-README-Template/pulls) 
+> You can make this project better, please  feel free to open a [Pull Request](https://github.com/YousefIbrahimismail/Project-README-Template/pulls).
 - If you notice a bug or a typo use the tag **"Correction"**.
 - If you want to share any ideas to help make this project better, use the tag **"Enhancement"**.
-
+- Reach me on my email [📫]( yousef_i44@protonmail.com)
 ## License <a id="license_header"></a> <!-- Optional -->
 <!-- 
 * Here you can add project license for copyrights and distribution 

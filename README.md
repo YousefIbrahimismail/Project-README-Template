@@ -2,9 +2,12 @@
 
 <!--
 * Thanks for reviewing my Project-README-Template! 
+* Access the blank-templete here (https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Templates/_blank-README.md) 
 * 
-* Read the comments for an easy step by step guide. Enjoy!
+* Read the comments for an easy step by step guide.or read this Make_it_Yours guide here: () // add Personalization_md_file
+* Enjoy!
 -->
+
 
 <!-- Shields Section--> <!-- Optional -->
 
@@ -13,6 +16,7 @@
 * 
 *
 -->
+
 
 <!-- Logo Section  --> <!-- Required -->
 
@@ -37,7 +41,10 @@
 * 
 * keep it short and sweet
 -->
-This simple project offers you a fully customizable and presentable README.md template file using only Markdown and HTML, to help kick start your projects. follow the [How To use guide](#how-to-use-this-project).
+
+This simple project offers you a fully customizable and presentable README.md template file using only Markdown and HTML, to help kick start your projects. follow the [How to use guide](#how-to-use-this-project).
+
+
 ## How to use this project<a id="getStarted_header"></a><!-- Required -->
 <!-- 
 * Here you may add information about how 
@@ -47,17 +54,22 @@ This simple project offers you a fully customizable and presentable README.md te
 
 - Access the [Blank template](./Templates/_blank-README.md) to use for your projects. 
 - clone this repository into your local machine.
-    ```bash
+
+```bash
     git clone https://github.com/YousefIbrahimismail/Project-README-Template.git
-    ```
+```
 - You can copy the markdown directly from this [MD file](./Templates/markdown-only.md).
-- Support this project by staring this repository!
+- Support me by staring this repository 💛
+
+
 ## Demo <a id="demo_header"></a><!-- Required -->
 <!-- 
 * You can add a demo here GH supports images/ GIFs/videos 
 * 
 * It's recommended to use GIFs as they are more dynamic
 -->
+
+
 ## Contents <a id="contents_header"></a> <!-- Optional -->
 <!-- 
 * This section is optional, yet having a contents table 
@@ -85,6 +97,8 @@ This simple project offers you a fully customizable and presentable README.md te
 </table>
 </dev>
 
+<p align="right"><a href="#project-readme-template---">back to top ⬆️</a></p>
+
 ## Project Roadmap <!-- Optional --> <!-- add learning_Rs-->
 <!-- 
 * Add this section in case the project has different phases
@@ -95,20 +109,25 @@ This simple project offers you a fully customizable and presentable README.md te
 - [ ] Create first Template 
 - [ ] (to be updated)
 
+<p align="right"><a href="#project-readme-template---">back to top ⬆️</a></p>
+
 ## Documentation <a id="docs_header"></a> <!-- Optional -->
 <!-- 
 * You may add any documentation or Wikis here
 * 
 * 
 -->
--
--
+- (to be updated)
+- (to be updated)
+
+
 ## Contributors <a id="contributors_Header"></a> <!-- Required -->
 <!-- 
 * Without contribution we wouldn't have open source. 
 * 
 * Generate github contributors Image here https://contrib.rocks/preview?repo=angular%2Fangular-ja
 -->
+
 
 ## Acknowledgments <a id="acknowledgments_header"></a> <!-- Optional -->
 <!-- 
@@ -121,6 +140,9 @@ This simple project offers you a fully customizable and presentable README.md te
 - [Shields](https://shields.io/)
 - [Choose an open source license](https://choosealicense.com/)
 - [Emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#flags)
+
+<p align="right"><a href="#project-readme-template---">back to top ⬆️</a></p>
+
 ## Feedback <a id="feedback_header"></a> <!-- Required -->
 <!-- 
 * You can add contacts information like your email and social media account 
@@ -131,7 +153,12 @@ This simple project offers you a fully customizable and presentable README.md te
 > You can make this project better, please  feel free to open a [Pull Request](https://github.com/YousefIbrahimismail/Project-README-Template/pulls).
 - If you notice a bug or a typo use the tag **"Correction"**.
 - If you want to share any ideas to help make this project better, use the tag **"Enhancement"**.
-- Reach me on my email [📫]( yousef_i44@protonmail.com)
+
+
+### Contact <a id="contact_header"></a> <!-- Required -->
+Reach me on via email: yousef_i44@protonmail.com
+
+
 ## License <a id="license_header"></a> <!-- Optional -->
 <!-- 
 * Here you can add project license for copyrights and distribution 
@@ -139,3 +166,5 @@ This simple project offers you a fully customizable and presentable README.md te
 * check this website for an easy reference https://choosealicense.com/)
 -->
 - [MIT License](./LICENSE.txt)
+
+<p align="right"><a href="#project-readme-template---">back to top ⬆️</a></p>

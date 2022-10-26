@@ -56,7 +56,7 @@ This simple project offers you a fully customizable and presentable README.md te
 * Review learning resources to create anchor links. 
 -->
 <dev align="center">
-<table>
+<table align="center">
         <tr>
             <td><a href="#">About</a></td>        
             <td>Getting started</td>

@@ -29,7 +29,7 @@
     </a>
 </div>
 
-# Project-Readme Template 📚 <a id="project_header"></a><!-- Required -->
+# Project-Readme Template 📚 <a id="project_header"></a> <!-- Required -->
 <!-- Project title -->
 ## About <a id="about_header"></a> <!-- Required -->
 <!-- 
@@ -38,7 +38,7 @@
 * keep it short and sweet
 -->
 This simple project offers you a fully customizable and presentable README.md template file using only Markdown and HTML, to help kick start your projects. follow the [How To use guide](#how-to-use-this-project).
-## How to use this project <a id="getStarted_header"></a><!-- Required -->
+## How to use this project<a id="getStarted_header"></a><!-- Required -->
 <!-- 
 * Here you may add information about how 
 * 
@@ -70,21 +70,15 @@ This simple project offers you a fully customizable and presentable README.md te
 <table align="center">
         <tr>
             <td><a href="#about_header">About</a></td>        
-            <td>Getting started</td>
-            <td>Test</td>
-            <td>Test</td>
-            <td>Test</td>
-            <td>Test</td>
-            <td>Test</td>
+            <td><a href="#getStarted_header">Getting started</td>
+            <td><a href="#demo_header">Demo</a></td>
+            <td><a href="#roadmap_header">Project Roadmap</a></td>
         </tr>
         <tr>
-            <td>Text</td>
-            <td>Text</td>
-            <td>Text</td>
-            <td>Text</td>
-            <td>Text</td>
-            <td>Text</td>
-            <td>Text</td>
+            <td><a href="#docs_header">Documentation</a></td>
+            <td><a href="#contributors_Header">Contributors</a></td>
+            <td><a href="#"Acknowledgments>Acknowledgments</a></td>
+            <td><a href="#"></a></td>
         </tr>
 </table>
 </dev>
@@ -107,7 +101,7 @@ This simple project offers you a fully customizable and presentable README.md te
 -->
 -
 -
-## Contributors <a id="contributors Header"></a> <!-- Required -->
+## Contributors <a id="contributors_Header"></a> <!-- Required -->
 <!-- 
 * Without contribution we wouldn't have open source. 
 * 

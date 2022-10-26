@@ -1,11 +1,22 @@
+<!-- Intro-->
+
 <!--
 * Thanks for reviewing my Project-README-Template! 
 * 
 * Read the comments for an easy step by step guide. Enjoy!
 -->
 
+<!-- Shields Section--> <!-- Optional -->
+
+<!-- 
+* Insert project shields and badges through this link https://shields.io/
+* 
+*
+-->
+
+<!-- Logo Section  --> <!-- Required -->
+
 <!--
-* Logo Section 
 * Insert an image URL in the <img> "src" attribute bellow. (line )
 * 
 * Insert your github profile URL in the <a> "href" attribute bellow (line )
@@ -18,16 +29,16 @@
     </a>
 </div>
 
-# Project-Readme Template 📚 <!-- Required -->
+# Project-Readme Template 📚 <a id="project_header"></a><!-- Required -->
 <!-- Project title -->
-## About <!-- Required -->
+## About <a id="about_header"></a> <!-- Required -->
 <!-- 
 * information about the project 
 * 
 * keep it short and sweet
 -->
 This simple project offers you a fully customizable and presentable README.md template file using only Markdown and HTML, to help kick start your projects. follow the [How To use guide](#how-to-use-this-project).
-## How to use this project <!-- Required -->
+## How to use this project <a id="getStarted_header"></a><!-- Required -->
 <!-- 
 * Here you may add information about how 
 * 
@@ -41,7 +52,7 @@ This simple project offers you a fully customizable and presentable README.md te
     ```
 - You can copy the markdown directly from this [MD file](./Templates/markdown-only.md).
 - Support this project by staring this repository!
-## Demo <!-- Required -->
+## Demo <a id="demo_header"></a><!-- Required -->
 <!-- 
 * You can add a demo here GH supports images/ GIFs/videos 
 * 
@@ -58,7 +69,7 @@ This simple project offers you a fully customizable and presentable README.md te
 <dev align="center">
 <table align="center">
         <tr>
-            <td><a href="#">About</a></td>        
+            <td><a href="#about_header">About</a></td>        
             <td>Getting started</td>
             <td>Test</td>
             <td>Test</td>
@@ -94,7 +105,8 @@ This simple project offers you a fully customizable and presentable README.md te
 * 
 * 
 -->
-
+-
+-
 ## Contributors <a id="contributors Header"></a> <!-- Required -->
 <!-- 
 * Without contribution we wouldn't have open source. 
@@ -109,19 +121,25 @@ This simple project offers you a fully customizable and presentable README.md te
 * Feel free to share your inspiration sources, Stackoverflow questions, github repos, tools etc.
 -->
 
-- 
-- 
-- 
+- [Make a Readme](https://www.makeareadme.com/)
+- [Shields](https://shields.io/)
+- [Choose an open source license](https://choosealicense.com/)
+- [Emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#flags)
 ## Feedback <a id="feedback_header"></a> <!-- Required -->
 <!-- 
+* You can add contacts information like your email and social media account 
 * 
-* 
-* 
+* Also it's common to add some PR guidance.
 -->
+
+> You can make this project better, please  feel free to open a [PR](https://github.com/YousefIbrahimismail/Project-README-Template/pulls) 
+- If you notice a bug or a typo use the tag **"Correction"**.
+- If you want to share any ideas to help make this project better, use the tag **"Enhancement"**.
 
 ## License <a id="license_header"></a> <!-- Optional -->
 <!-- 
+* Here you can add project license for copyrights and distribution 
 * 
-* 
-* 
+* check this website for an easy reference https://choosealicense.com/)
 -->
+- [MIT License](./LICENSE.txt)

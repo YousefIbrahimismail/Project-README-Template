@@ -24,6 +24,6 @@
 <div align="center">
     <a href="your_github_user_name" target="_blank">
         <img src="https://user-images.githubusercontent.com/59213365/198116794-365cd9b5-e705-4111-a249-85ed713b9c87.jpg" 
-        alt="Logo">
+        alt="Logo" height="300" width="auto">
     </a>
 </div>

@@ -89,9 +89,10 @@ This simple project offers you a fully customizable and presentable README.md te
 * It's recommended to use GIFs as they are more dynamic
 -->
 
-<dev align="center">
-    <img alt="demo" src=">
-</dev>
+
+<div align="center">
+    <img alt="demo" src="https://user-images.githubusercontent.com/59213365/198179320-b9ec79a6-b5ca-47b9-9f29-125d18f6be70.gif">
+</div>
 
 ## Contents Table<!-- Optional -->
 <!-- 

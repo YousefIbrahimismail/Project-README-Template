@@ -91,14 +91,15 @@ This simple project offers you a fully customizable and presentable README.md te
             <td><a href="#about">About</a></td>        
             <td><a href="#how-to-use-this-project">Getting started</td>
             <td><a href="#demo">Demo</a></td>
-            <td><a href="#project-roadmap">Project Roadmap</a></td>
-            <td><a href="#documentation"></a>Documentation</td>
-            <td><a href="../Learning_Resources/README.md#learning-resources">Learning Resources</a></td>
+            <td><a href="#project-roadmap--">Project Roadmap</a></td>
+            <td><a href="#documentation">Documentation</a></td>
+            <td><a href="#contributors">Contributors</a></td>
         </tr>
         <tr>
-            <td><a href="#contributors">Contributors</a></td>
             <td><a href="#acknowledgments">Acknowledgments</a></td>
-            <td><a href="#"></a></td>
+            <td><a href="https://github.com/YousefIbrahimismail/Project-README-Template/tree/main/Learning_Resources">Learning Resources</a></td>
+            <td><a href="https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Documentation/Step-by-step-guide.md">
+            Step By Step Guide</a></td>
             <td><a href="#feedback">Feedback</a></td>
             <td><a href="#contact">Contact</a></td>
             <td><a href="#license">License</a></td>
@@ -116,8 +117,8 @@ This simple project offers you a fully customizable and presentable README.md te
 * Under production or will be updated.
 -->
 
-- [ ] Create first Template 
-- [ ] (to be updated)
+- [x] Create first Template 
+- [ ] Update a More Daynamic README file
 
 <!-- - Use this html element to create a back to top button. -->
 <p align="right"><a href="#project-readme-template---">back to top ⬆️</a></p>
@@ -128,8 +129,7 @@ This simple project offers you a fully customizable and presentable README.md te
 * 
 * 
 -->
-- (to be updated)
-- (to be updated)
+- []()
 
 
 ## Contributors<!-- Required -->

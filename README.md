@@ -89,6 +89,9 @@ This simple project offers you a fully customizable and presentable README.md te
 * It's recommended to use GIFs as they are more dynamic
 -->
 
+<dev align="center">
+    <img alt="demo" src=">
+</dev>
 
 ## Contents Table<!-- Optional -->
 <!-- 
@@ -134,11 +137,10 @@ This simple project offers you a fully customizable and presentable README.md te
 * Under production or will be updated.
 -->
 
-- [x] Create first Template [Access blank Template](https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Templates/_blank-README.md)
-- [ ] Update a More Daynamic README file
+- [x] Create first Template [Access blank Template](https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Templates/_blank-README.md).
+- [ ] Update a More Dynamic README file.
 
 
-<!-- - Use this html element to create a back to top button. -->
 <p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
 
 ## Documentation<!-- Optional -->
@@ -149,7 +151,7 @@ This simple project offers you a fully customizable and presentable README.md te
 -->
 
 
-- [Step By Step Guide](https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Documentation/Step-by-step-guide.md)
+- [Wiki Step by Step](https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Documentation/Step-by-step-guide.md)
 
 
 ## Contributors<!-- Required -->
@@ -174,9 +176,9 @@ This simple project offers you a fully customizable and presentable README.md te
 
 - [Make a Readme](https://www.makeareadme.com/)
 - [Shields](https://shields.io/)
-- [Choose an open source license](https://choosealicense.com/)
 - [Emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#flags)
-
+- [SVG README](https://readme-typing-svg.demolab.com/demo/)
+- [Choose an open source license](https://choosealicense.com/)
 
 <!-- - Use this html element to create a back to top button. -->
 <p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
@@ -190,14 +192,18 @@ This simple project offers you a fully customizable and presentable README.md te
 -->
 
 
-
 > You can make this project better, please  feel free to open a [Pull Request](https://github.com/YousefIbrahimismail/Project-README-Template/pulls).
 - If you notice a bug or a typo use the tag **"Correction"**.
 - If you want to share any ideas to help make this project better, use the tag **"Enhancement"**.
 
 
 ### Contact<!-- Required -->
-Reach me on via email: yousef_i44@protonmail.com
+Reach me via email: yousef_i44@protonmail.com
+<!-- 
+* add your email and contact info here
+* 
+* 
+-->
 
 
 ## License<!-- Optional -->

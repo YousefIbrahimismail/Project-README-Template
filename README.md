@@ -152,7 +152,7 @@ This simple project offers you a fully customizable and presentable README.md te
 -->
 
 
-- [Wiki Step by Step](https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Documentation/Step-by-step-guide.md)
+- [Wiki Step by Step](https://github.com/YousefIbrahimismail/Project-README-Template/wiki/Step-by-Step-Guide)
 
 
 ## Contributors<!-- Required -->

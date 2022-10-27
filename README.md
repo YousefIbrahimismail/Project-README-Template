@@ -95,7 +95,7 @@ This simple project offers you a fully customizable and presentable README.md te
     <img alt="demo" src="https://user-images.githubusercontent.com/59213365/198179320-b9ec79a6-b5ca-47b9-9f29-125d18f6be70.gif">
 </div>
 
-## Contents Table<!-- Optional -->
+## Table of Contents<!-- Optional -->
 <!-- 
 * This section is optional, yet having a contents table 
 * helps keeping your README readable and more professional.
@@ -105,8 +105,8 @@ This simple project offers you a fully customizable and presentable README.md te
 -->
 
 
-<dev align="center">
-<table align="center">
+<dev display="inline-table" vertical-align="middle">
+<table align="center" vertical-align="middle">
         <tr>
             <td><a href="#about">About</a></td>        
             <td><a href="#how-to-use-this-project">Getting started</td>

@@ -27,3 +27,45 @@
         alt="Logo" height="300" width="auto">
     </a>
 </div>
+<!-- Project title 
+* use a dynamic typing-SvG here https://readme-typing-svg.demolab.com/demo/
+*
+*  Instead you can type your project name after a # header
+-->
+
+# Project Title<!-- Required -->
+
+## About<!-- Required -->
+<!-- 
+* information about the project 
+* 
+* keep it short and sweet
+-->
+
+
+## How to use this project<!-- Required -->
+<!-- 
+* Here you may add information about how 
+* 
+* and why to use this project.
+-->
+-
+-
+-
+
+
+## Demo<!-- Required -->
+<!-- 
+* You can add a demo here GH supports images/ GIFs/videos 
+* 
+* It's recommended to use GIFs as they are more dynamic
+-->
+
+## Contents Table<!-- Optional -->
+<!-- 
+* This section is optional, yet having a contents table 
+* helps keeping your README readable and more professional.
+* 
+* If you are not familiar with HTML, no worries we all been there :) 
+* Review learning resources to create anchor links. 
+-->

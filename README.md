@@ -26,6 +26,7 @@
 * Insert your github profile URL in the <a> "href" attribute bellow (line )
 -->
 
+
 <div align="center">
     <a href="https://github.com/YousefIbrahimismail" target="_blank">
         <img src="https://user-images.githubusercontent.com/59213365/197888886-4de4b57c-e537-4a1d-94a0-937a4d1a136a.png" 
@@ -33,11 +34,13 @@
     </a>
 </div>
 
+
 <!-- Project title 
 * use a dynamic typing-SvG here https://readme-typing-svg.demolab.com/demo/
 *
 *  Instead you can type your project name after a # header
 -->
+
 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Vivid-Project-Readme-Template!)
 
@@ -47,6 +50,7 @@
 * 
 * keep it short and sweet
 -->
+
 
 This simple project offers you a fully customizable and presentable README.md template file using only Markdown and HTML, to help kick start your projects. follow the [How to use guide](#how-to-use-this-project).
 
@@ -85,6 +89,7 @@ This simple project offers you a fully customizable and presentable README.md te
 * Review learning resources to create anchor links. 
 -->
 
+
 <dev align="center">
 <table align="center">
         <tr>
@@ -107,8 +112,10 @@ This simple project offers you a fully customizable and presentable README.md te
 </table>
 </dev>
 
+
 <!-- - Use this html element to create a back to top button. -->
 <p align="right"><a href="#project-readme-template---">back to top ⬆️</a></p>
+
 
 ## Project Roadmap <!-- Optional --> <!-- add learning_Rs-->
 <!-- 
@@ -120,6 +127,7 @@ This simple project offers you a fully customizable and presentable README.md te
 - [x] Create first Template 
 - [ ] Update a More Daynamic README file
 
+
 <!-- - Use this html element to create a back to top button. -->
 <p align="right"><a href="#project-readme-template---">back to top ⬆️</a></p>
 
@@ -129,7 +137,9 @@ This simple project offers you a fully customizable and presentable README.md te
 * 
 * 
 -->
-- []()
+
+
+- [Step By Step Guide](https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Documentation/Step-by-step-guide.md)
 
 
 ## Contributors<!-- Required -->
@@ -147,13 +157,16 @@ This simple project offers you a fully customizable and presentable README.md te
 * Feel free to share your inspiration sources, Stackoverflow questions, github repos, tools etc.
 -->
 
+
 - [Make a Readme](https://www.makeareadme.com/)
 - [Shields](https://shields.io/)
 - [Choose an open source license](https://choosealicense.com/)
 - [Emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#flags)
 
+
 <!-- - Use this html element to create a back to top button. -->
 <p align="right"><a href="#project-readme-template---">back to top ⬆️</a></p>
+
 
 ## Feedback<!-- Required -->
 <!-- 
@@ -161,6 +174,8 @@ This simple project offers you a fully customizable and presentable README.md te
 * 
 * Also it's common to add some PR guidance.
 -->
+
+
 
 > You can make this project better, please  feel free to open a [Pull Request](https://github.com/YousefIbrahimismail/Project-README-Template/pulls).
 - If you notice a bug or a typo use the tag **"Correction"**.
@@ -170,6 +185,7 @@ This simple project offers you a fully customizable and presentable README.md te
 ### Contact<!-- Required -->
 Reach me on via email: yousef_i44@protonmail.com
 
+
 ## License<!-- Optional -->
 <!-- 
 * Here you can add project license for copyrights and distribution 
@@ -178,6 +194,7 @@ Reach me on via email: yousef_i44@protonmail.com
 -->
 
 - [MIT License](./LICENSE.txt)
+
 
 <!-- - Use this html element to create a back to top button. -->
 <p align="right"><a href="#project-readme-template---">back to top ⬆️</a></p>

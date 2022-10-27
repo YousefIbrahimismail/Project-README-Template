@@ -105,7 +105,7 @@ This simple project offers you a fully customizable and presentable README.md te
         <tr>
             <td><a href="#acknowledgments">Acknowledgments</a></td>
             <td><a href="https://github.com/YousefIbrahimismail/Project-README-Template/tree/main/Learning_Resources">Learning Resources</a></td>
-            <td><a href="https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Documentation/Step-by-step-guide.md">
+            <td><a href="https://github.com/YousefIbrahimismail/Project-README-Template/wiki/Step-by-Step-Guide">
             Step By Step Guide</a></td>
             <td><a href="#feedback">Feedback</a></td>
             <td><a href="#contact">Contact</a></td>

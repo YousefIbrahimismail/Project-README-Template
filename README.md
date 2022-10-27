@@ -62,7 +62,7 @@
 -->
 
 
-This simple project offers you a fully customizable and presentable README.md template file using only Markdown and HTML, to help kick start your projects. follow the [How to use guide](#how-to-use-this-project).
+This simple project offers you a fully customizable and presentable README.md template using only Markdown and HTML, to help jump start your projects. follow the [How to use guide](#how-to-use-this-project).
 
 
 ## How to use this project<!-- Required -->

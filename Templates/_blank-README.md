@@ -76,7 +76,7 @@
 -->
 
 
-## Contents Table<!-- Optional -->
+## Table of Contents<!-- Optional -->
 <!-- 
 * This section is optional, yet having a contents table 
 * helps keeping your README readable and more professional.

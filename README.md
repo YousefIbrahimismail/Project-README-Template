@@ -79,6 +79,7 @@ This simple project offers you a fully customizable and presentable README.md te
     git clone https://github.com/YousefIbrahimismail/Project-README-Template.git
 ```
 - You can copy the markdown directly from this [MD file](./Templates/markdown-only.md).
+- Make sure to check the [Documentation](https://github.com/YousefIbrahimismail/Project-README-Template/wiki/Step-by-Step-Guide) for a step by step guide.
 - Support me by staring this repository 💛
 
 

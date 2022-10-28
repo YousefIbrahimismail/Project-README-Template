@@ -18,7 +18,10 @@
 -->
 
 <div align="center">
-
+    <a href="https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/YousefIbrahimismail/Project-README-Template?color=ff69b4&style=for-the-badge"></a>
+    <a href="https://github.com/YousefIbrahimismail/Project-README-Template/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/YousefIbrahimismail/Project-README-Template?color=yellow&label=Project%20Stars&style=for-the-badge"></a>
+    <a href="https://github.com/YousefIbrahimismail/Project-README-Template/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/YousefIbrahimismail/Project-README-Template?color=brightgreen&label=issues&style=for-the-badge"></a>
+    <a href="https://github.com/YousefIbrahimismail/Project-README-Template/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/YousefIbrahimismail/Project-README-Template?color=9cf&label=forks&style=for-the-badge"></a>
 </div>
 <br>
 

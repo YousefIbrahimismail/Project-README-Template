@@ -200,7 +200,7 @@ This simple project offers you a fully customizable and presentable README.md te
 
 
 ### Contact<!-- Required -->
-Reach me via email: yousef_i44@protonmail.com
+Reach me via email: [yousef_i44@protonmail.com](mailto:yousef_i44@protonmail.com)
 <!-- 
 * add your email and contact info here
 * 

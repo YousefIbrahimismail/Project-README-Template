@@ -198,6 +198,8 @@ This simple project offers you a fully customizable and presentable README.md te
 - If you notice a bug or a typo use the tag **"Correction"**.
 - If you want to share any ideas to help make this project better, use the tag **"Enhancement"**.
 
+<details>
+    <summary>Contact Me 📨</summary>
 
 ### Contact<!-- Required -->
 Reach me via email: [yousef_i44@protonmail.com](mailto:yousef_i44@protonmail.com)
@@ -206,7 +208,8 @@ Reach me via email: [yousef_i44@protonmail.com](mailto:yousef_i44@protonmail.com
 * 
 * 
 -->
-
+    
+</details>
 
 ## License<!-- Optional -->
 <!-- 
